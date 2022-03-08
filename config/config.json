@@ -1,0 +1,26 @@
+{
+    "development": {
+        "username": "postgres",
+        "password": "dalim123",
+        "database": "movies",
+        "host": "127.0.0.1",
+        "port": "5432",
+        "dialect": "postgres"
+    },
+    "test": {
+        "username": "postgres",
+        "password": "dalim123",
+        "database": "movies",
+        "host": "127.0.0.1",
+        "port": "5432",
+        "dialect": "postgres"
+    },
+    "production": {
+        "username": "postgres",
+        "password": "dalim123",
+        "database": "movies",
+        "host": "127.0.0.1",
+        "port": "5432",
+        "dialect": "postgres"
+    }
+}
